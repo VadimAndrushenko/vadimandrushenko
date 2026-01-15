@@ -23,7 +23,7 @@
 ###
 
 <p align="left">
- Привет, меня зовут Вадим, мне 25 лет. Я начинающий фронтенд-разработчик с прочной базой в HTML и CSS и уверенными знаниями JavaScript. Владею Vue.js и Nuxt, свободно работаю с SCSS и Tailwind, использую современные инструменты сборки. Мои проекты адаптированы под разные устройства, соответствуют требованиям доступности ARIA и созданы с применением практик чистого кода. Я ориентирован на результат, внимателен к деталям, быстро учусь и эффективно работаю в команде.
+ Привет, меня зовут Вадим, мне 17 лет. Я начинающий фронтенд-разработчик с прочной базой в HTML и CSS и уверенными знаниями JavaScript. Владею Vue.js и Nuxt, свободно работаю с SCSS и Tailwind, использую современные инструменты сборки. Мои проекты адаптированы под разные устройства, соответствуют требованиям доступности ARIA и созданы с применением практик чистого кода. Я ориентирован на результат, внимателен к деталям, быстро учусь и эффективно работаю в команде.
 </p>
 
 ##
@@ -48,6 +48,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxt js logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+  <img width="12" />
 </div>
 
 ##
@@ -56,12 +62,6 @@
 
 <div align="left">
   <img class="invert" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
